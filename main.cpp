@@ -3,6 +3,8 @@
 #include "Player.h"
 using namespace std;
 
+/* This code is provided by the instructor*/
+
 int mypower(int a, int b, int m)
 {
     int res = 1;
